@@ -91,12 +91,9 @@ As a **security-focused e-commerce platform**, CyberShield implements:
 
 ## **🚀 Deployment**  
 
-
- **GitHub Pages**  
-   ```bash
-   git push origin main
-   ```
-   
+### **Option 1: Static Hosting **  
+1. **Netlify**  
+https://68254e90dbf1fbb8ddb8e704--eloquent-croissant-65fd19.netlify.app/
 
 ---
 
