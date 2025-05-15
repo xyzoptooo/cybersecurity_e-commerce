@@ -91,24 +91,12 @@ As a **security-focused e-commerce platform**, CyberShield implements:
 
 ## **🚀 Deployment**  
 
-### **Option 1: Static Hosting (Recommended)**  
-1. **Netlify/Vercel**  
-   - Drag-and-drop the `cybershop` folder  
-   - Enable **Auto HTTPS**  
-   - Set up form handling (for contact page)  
 
-2. **GitHub Pages**  
+ **GitHub Pages**  
    ```bash
    git push origin main
    ```
-   Enable GitHub Pages in repo settings.  
-
-### **Option 2: Self-Hosted**  
-```bash
-# Run a local server (Python)
-python3 -m http.server 8000
-```
-Then open `http://localhost:8000`.  
+   
 
 ---
 
@@ -169,19 +157,14 @@ MIT License. Use freely for commercial/personal projects.
 ---
 
 ### **🌟 Why This Project Stands Out**  
-- **Security-first approach** (critical for a cybersecurity product site)  
-- **Fully responsive** (mobile, tablet, desktop)  
-- **Modular & maintainable** (easy to extend)  
-- **Professional UI/UX** (conversion-optimized)  
+- **Security-first approach**
+- **Fully responsive** 
+- **Modular & maintainable** 
+- **Professional UI/UX** 
 
 **Ready for production deployment!** 🚀  
 
----
-
-> **Pro Tip:** For enterprise use, consider adding:  
-> - **SOC 2 Compliance**  
-> - **Penetration Testing**  
-> - **PCI DSS Certification** (if handling payments)  
+--- 
 
 ---
 
