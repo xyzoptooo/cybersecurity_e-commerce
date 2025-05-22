@@ -1,0 +1,91 @@
+/* Dark Theme */
+.dark-theme {
+    background-color: #0f172a;
+    color: #e2e8f0;
+}
+
+.dark-theme .main-header,
+.dark-theme .feature-card,
+.dark-theme .product-card,
+.dark-theme .blog-card,
+.dark-theme .cart-item,
+.dark-theme .cart-totals,
+.dark-theme .checkout-item,
+.dark-theme .info-card,
+.dark-theme .contact-form,
+.dark-theme .timeline-content,
+.dark-theme .review {
+    background-color: #1e293b;
+    color: #e2e8f0;
+}
+
+.dark-theme .main-nav a,
+.dark-theme .logo span,
+.dark-theme .product-title,
+.dark-theme .checkout-item-total,
+.dark-theme .info-content h3,
+.dark-theme .team-member h3 {
+    color: #e2e8f0;
+}
+
+.dark-theme .main-nav a:hover {
+    color: #93c5fd;
+}
+
+.dark-theme .features {
+    background-color: #1e293b;
+}
+
+.dark-theme .footer-column a {
+    color: #94a3b8;
+}
+
+.dark-theme .footer-column a:hover {
+    color: #e2e8f0;
+}
+
+.dark-theme .filter-btn {
+    background-color: #1e293b;
+    color: #e2e8f0;
+    border-color: #334155;
+}
+
+.dark-theme .filter-btn.active {
+    background-color: var(--primary-color);
+    color: white;
+    border-color: var(--primary-color);
+}
+
+.dark-theme .product-search,
+.dark-theme .sort-select,
+.dark-theme .product-quantity input,
+.dark-theme .promo-form input,
+.dark-theme .form-group input,
+.dark-theme .form-group select,
+.dark-theme .form-group textarea {
+    background-color: #1e293b;
+    color: #e2e8f0;
+    border-color: #334155;
+}
+
+.dark-theme .product-tab-buttons button {
+    color: #94a3b8;
+}
+
+.dark-theme .product-tab-buttons button.active {
+    color: var(--primary-color);
+}
+
+.dark-theme .checkout-progress::before {
+    background-color: #334155;
+}
+
+.dark-theme .progress-item span:first-child {
+    background-color: #1e293b;
+    border-color: #334155;
+    color: #e2e8f0;
+}
+
+.dark-theme .terms-agreement label {
+    color: #e2e8f0;
+}
